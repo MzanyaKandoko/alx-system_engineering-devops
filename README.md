@@ -1,2 +1,1 @@
-This is a test of how things work in project 205
-# alx-system_engineering-devops
+This is a file to explain the way tis project 205 works
