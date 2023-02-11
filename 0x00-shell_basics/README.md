@@ -1,0 +1,1 @@
+This is a file to explain how to show the present wprking directory
