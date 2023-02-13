@@ -1,0 +1,1 @@
+This project is all about the directions and use of special charactoers in Shell
